@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="Icons">
+    <file>statistics.png</file>
+    <file>id.png</file>
+    <file>chart.png</file>
+    <file>apply.png</file>
+    <file>import.png</file>
+  </qresource>
+</RCC>
